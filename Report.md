@@ -21,3 +21,9 @@
 
 - Specifies required Node.js and npm versions
 - Ensures compatibility
+
+## 5. Other Fields
+- **keywords**: Help others find your package
+- **author**: Who created it
+- **license**: How others can use it
+- **repository**: Where the code is hosted
