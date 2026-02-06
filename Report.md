@@ -1,10 +1,10 @@
 # Package.json Report
 
-## 1. Project About
+## 1. Project Basic Info
 
-- **name**: Exploring NodeJS
-- **version**: 1.0.0
-- **description**: A simple calculator program.
+- **name**: The project name
+- **version**: Current version (1.0.0 means first stable release)
+- **description**: What the project does
 
 ## 2. Dependencies
 
