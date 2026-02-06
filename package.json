@@ -1,0 +1,33 @@
+{
+  "name": "exploringnodejs",
+  "version": "1.0.0",
+  "description": "this is my exploring nodeJS package assignment",
+  "homepage": "https://github.com/nhapham03/ExploringNodeJS#readme",
+  "bugs": {
+    "url": "https://github.com/nhapham03/ExploringNodeJS/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nhapham03/ExploringNodeJS.git"
+  },
+  "license": "MIT",
+  "author": "Nha Pham",
+  "type": "module",
+  "main": "index.js",
+  "keyword": [
+    "packages",
+    "Node",
+    "dependencies"
+  ],
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest",
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
+}
